@@ -1,0 +1,16 @@
+D:\1651-Advanced Programming\Code\Asm\asm\obj\Debug\net5.0\asm.csproj.AssemblyReference.cache
+D:\1651-Advanced Programming\Code\Asm\asm\obj\Debug\net5.0\asm.GeneratedMSBuildEditorConfig.editorconfig
+D:\1651-Advanced Programming\Code\Asm\asm\obj\Debug\net5.0\asm.AssemblyInfoInputs.cache
+D:\1651-Advanced Programming\Code\Asm\asm\obj\Debug\net5.0\asm.AssemblyInfo.cs
+D:\1651-Advanced Programming\Code\Asm\asm\obj\Debug\net5.0\asm.csproj.CoreCompileInputs.cache
+D:\1651-Advanced Programming\Code\Asm\asm\bin\Debug\net5.0\asm.exe
+D:\1651-Advanced Programming\Code\Asm\asm\bin\Debug\net5.0\asm.deps.json
+D:\1651-Advanced Programming\Code\Asm\asm\bin\Debug\net5.0\asm.runtimeconfig.json
+D:\1651-Advanced Programming\Code\Asm\asm\bin\Debug\net5.0\asm.runtimeconfig.dev.json
+D:\1651-Advanced Programming\Code\Asm\asm\bin\Debug\net5.0\asm.dll
+D:\1651-Advanced Programming\Code\Asm\asm\bin\Debug\net5.0\ref\asm.dll
+D:\1651-Advanced Programming\Code\Asm\asm\bin\Debug\net5.0\asm.pdb
+D:\1651-Advanced Programming\Code\Asm\asm\obj\Debug\net5.0\asm.dll
+D:\1651-Advanced Programming\Code\Asm\asm\obj\Debug\net5.0\ref\asm.dll
+D:\1651-Advanced Programming\Code\Asm\asm\obj\Debug\net5.0\asm.pdb
+D:\1651-Advanced Programming\Code\Asm\asm\obj\Debug\net5.0\asm.genruntimeconfig.cache
